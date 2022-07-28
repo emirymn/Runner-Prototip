@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vivi Animations V01
+* source:	https://sketchfab.com/3d-models/vivi-animations-v01-0aca1d5c49f64e6788d5c335d3412c3a
+* author:	Plug_N_Play_Assets (https://sketchfab.com/thesharks333)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vivi Animations V01" (https://sketchfab.com/3d-models/vivi-animations-v01-0aca1d5c49f64e6788d5c335d3412c3a) by Plug_N_Play_Assets (https://sketchfab.com/thesharks333) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
