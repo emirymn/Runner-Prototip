@@ -13,4 +13,5 @@ public class StaticEvents
     public static Action EatFood;
     public static Action<int> InLevelPortal;
     public static Action TakeLwUPCollectables;
+    public static Action NextLevel;
 }
